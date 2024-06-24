@@ -25,5 +25,5 @@ El juego del ahorcado es un juego de adivinanzas en el que el jugador debe adivi
 No se requiere instalación. Simplemente clona o descarga este repositorio y abre el archivo `index.html` en tu navegador.
 
 ```bash
-git clone https://github.com/RfEfrop/juego-del-ahorcado.git
+git clone [https://github.com/RfEfrop/juego-del-ahorcado.git](https://github.com/RfEfrop/Juego-del-ahorcado-.git)
 
